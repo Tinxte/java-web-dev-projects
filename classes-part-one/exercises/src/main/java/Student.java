@@ -40,6 +40,4 @@ public class Student {
                 return gpa;
         }
 
-        Student student = new Student("Bird", 123, 1, 4.0);
-
 }
