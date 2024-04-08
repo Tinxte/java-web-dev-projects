@@ -17,10 +17,10 @@ public class CountingCharacters {
 
     for (char character : charactersInString) {
     if (characterCounts.containsKey(character)) {
-        characterCounts.put(character, characterCounts.get(character) + 1);
+//        characterCounts.put(character, characterCounts.get(character) + 1);
     }
     else {
-        characterCounts.put(character, 1);
+//        characterCounts.put(character, 1);
     }
     }
 
