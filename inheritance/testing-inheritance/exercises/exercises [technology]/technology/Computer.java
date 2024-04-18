@@ -1,6 +1,6 @@
 package technology;
 
-public class Computer {
+public abstract class Computer {
     private int modelYear;
     private String name;
     public int ram;
